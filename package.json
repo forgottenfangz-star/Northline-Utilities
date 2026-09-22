@@ -1,0 +1,17 @@
+{
+  "name": "northline-utilities-bot",
+  "version": "2.1.0",
+  "description": "NORTHLINE Discord operations, ticketing and AI support bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2",
+    "openai": "^5.19.1"
+  }
+}
